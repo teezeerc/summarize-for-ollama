@@ -1,0 +1,8 @@
+chromadb==0.5.5
+langchain==0.2.11
+langchain-community==0.2.10
+langchain-experimental==0.0.63
+langchain-openai==0.1.17
+langchainhub==0.1.20
+tiktoken==0.7.0
+transformers==4.43.2
