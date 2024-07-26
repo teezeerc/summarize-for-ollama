@@ -9,7 +9,7 @@ Script to summarize text document. Different chunking algorithms and summarizing
 - cd summarize-for-ollama
 - pip install -r requirements.txt
 
-# Simples use case
+# Simple use case
 
 Run Ollama and download models:
 - ollama pull TeeZee/gemma-2-9b-it-abliterated
